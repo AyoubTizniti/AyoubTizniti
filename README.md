@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyoubTizniti
-- 👀 I’m interested in C#, Python
+- 👀 I’m interested in C#, Python and ethical hacking
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Ayoub.Tizniti@integration.team
