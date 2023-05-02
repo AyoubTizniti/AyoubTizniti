@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyoubTizniti
 - 👀 I’m interested in C#, Python and ethical hacking
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning the basics on how to use kali for hacking purposes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Ayoub.Tizniti@integration.team
 
